@@ -1,3 +1,25 @@
+Day 21: Recipe Search
+Description: Search for recipes by ingredient.
+
+Functionalities:
+
+Search by ingredient
+Display recipe details (title, ingredients, instructions)
+Use a recipe API (e.g., Edamam)
+
+Live on Vercel: https://lnkd.in/dETdfN96
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
